@@ -1,12 +1,21 @@
 {
-  "name": "jquery.complexify",
+  "name": "@regru/jquery-complexify",
   "version": "0.5.2-regru",
   "main": "jquery.complexify.js",
   "description": "Complexify helps you to accurately gauge the quality of a user's password to give them visual feedback, and to enforce a minimum level of security.",
   "homepage": "https://github.com/danpalmer/jquery.complexify.js",
-  "keywords":[
+  "keywords": [
     "jquery",
     "password",
     "complexify"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmieel/jquery.complexify.js.git"
+  },
+  "author": "danpalmer dan@danpalmer.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosmieel/jquery.complexify.js/issues"
+  }
 }
